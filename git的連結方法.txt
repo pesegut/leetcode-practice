@@ -1,7 +1,7 @@
 1. 在本機建立文件夾上按右鍵點git bash。
 2. 在git bash上輸入 git clone [github網址]。(這步驟可以快速完成git的連結同時又將資料載下)
 3. 將本機文件夾中剛剛被複製文件夾中的.git剪到本機文件夾中，再將複製文件夾刪除。
-4. git add. 加入索引 git log 確認上傳紀錄
+4. git add . 加入索引 git log 確認上傳紀錄
 5. git commit -m'要加的註解' (若為空資料夾不能用)
 6. git push origin master(若無SSH可能需要輸入帳密)
   
